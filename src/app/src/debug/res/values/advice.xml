@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="advice_light_female">Beautiful , a little thin，Dietplanner  recommend that you eat point !</string>
+    <string name="advice_ok_female">Beauty , body perfect ，Dietplanner so envious！</string>
+    <string name="advice_heavy_female">Beauty, a little heavier，Dietplanner  recommend that you should take low calorie food</string>
+    <string name="advice_fat_female">Beauty, it is a bit heavier!</string>
+    <string name="advice_light_male">Handsome , a little thin，Dietplanner  recommend that you must take high calorie food</string>
+    <string name="advice_ok_male">Handsome , oh perfect body，Dietplanner so envious！</string>
+    <string name="advice_heavy_male">Handsome , very sturdy die，Dietplanner recommend you to maintain the diet </string>
+    <string name="advice_fat_male"> Handsome , is too sturdy ah!</string>
+
+</resources>
